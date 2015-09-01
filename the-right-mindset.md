@@ -1,7 +1,7 @@
 
 Research The Growth Mindsets by Dr. Carol Dweck, starting with the videos provided below. Document your sources on your wiki page, targeting a short (3 - 5 paragraphs) journal entry that includes all of the following:
 
-##### summarizes the two mindsets and characteristics of each
+#### summarizes the two mindsets and characteristics of each
 ##### growth mindset (yet) -
 - reacts to a difficult challenge positively
 - understand that their abilities could be developed
@@ -16,10 +16,10 @@ Research The Growth Mindsets by Dr. Carol Dweck, starting with the videos provid
 - they run from difficulty
 - hardly any electrical brain activity as they confronted an error, they dont engage it
 
-##### either describe a personal situation in which you experienced each mindset or describes which aspects of each mindset you recognize in yourself
+#### either describe a personal situation in which you experienced each mindset or describes which aspects of each mindset you recognize in yourself
 -
 
-##### explains how you will apply this understanding to your experience at The Iron Yard
+#### explains how you will apply this understanding to your experience at The Iron Yard
 -
 
 
