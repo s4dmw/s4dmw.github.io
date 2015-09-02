@@ -17,10 +17,11 @@ Research The Growth Mindsets by Dr. Carol Dweck, starting with the videos provid
 - hardly any electrical brain activity as they confronted an error, they dont engage it
 
 #### either describe a personal situation in which you experienced each mindset or describes which aspects of each mindset you recognize in yourself
--
+-it bothers me when i cant pick up concepts quick but i do understand they they take time so i dont let myself
+get discouraged
 
 #### explains how you will apply this understanding to your experience at The Iron Yard
--
+-just because i may not be great at FEE yet, doesnt mean i can't be one day
 
 
 If you need guidance, follow the writing process: start by brainstorming some ideas about the topic and write an outline of your essay, no more than three levels deep, on your wiki page. Otherwise, you can start with your first Rough Draft -- very unorganized, stream of consciousness.
