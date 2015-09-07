@@ -1,6 +1,6 @@
 #### The Growth Mindset
 
-Dr. Carol Dweck's research on learning revealed two mindsets, the growth mindset and the fixed mindset. She found that subjects with the growth mindset responded more positively to difficult challenges and understood that although they might not able to solve some difficult problems yet, they could develop the ability to solve them later. The key to this is their "not yet" attitude. When they encounter errors, they had a higher measured brain activity than their fixed mindset counterparts. The subjects with the growth mindset frequently learned from their errors and corrected them.
+Dr. Carol Dweck's research on learning revealed two mindsets - the growth mindset and the fixed mindset. Dweck found that subjects with the growth mindset responded more positively to difficult challenges and understood that, although they might not able to solve them yet, they could develop the ability to solve difficult problems later. The key to this is the "not yet" attitude. When supbjects encountered errors, they had a higher measured brain activity than their fixed mindset counterparts. The subjects with the growth mindset frequently learned from their errors and corrected them.
 
 Subjects with a fixed mindset did not respond well to difficult challenges and often felt like a failure for not being able to solve a problem. Dr. Dweck described them as feeling "crushed by the tyranny of now" and asserted that they often avoid difficult problems.
 
