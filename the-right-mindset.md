@@ -6,7 +6,7 @@ Subjects with a fixed mindset did not respond well to difficult challenges and o
 
 I see characteristics of both mindsets in myself. I primarily view myself as having a growth mindset but it does sometimes bother me when I can't learn a concept as quickly as i would like. I do understand that my abilities can be developed further and try my best to learn from errors and not get discouraged.
 
-I plan to use the concept of the growth mindset to help me succeed in my Iron Yard course. I expect there to be many occasions in which I don't understand the concepts at first. Knowing that I can work at developing those skills should keep me on track throughout the program.
+I plan to use the concept of the growth mindset to help me succeed in my Iron Yard course. I expect there to be many occasions in which I don't understand the concepts at first but knowing that I can work at developing those skills should keep me on track throughout the program.
 
 
 ##### Sources:
