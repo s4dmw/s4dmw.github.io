@@ -1,31 +1,9 @@
-#####what did i learn in week 1?
-- met my fellow students
-- git/github
-  - branches/branch management
-  - repositories
-  - fork/clone
-  - push/pull/merge
-    - oh no, merge conflict!
-  - CLI git commands
-  - github for desktop and sourcetree
-  - the woderful world of markdown
-- tools - CLI, node, atom, slack, etc, etc
-- basics of javascript
-    - 4 primitive types (null, Boolean, number, strings)
-    - functions
-      - definition and invocation
-      - input, output, and side effects
-      - local and global variables
-    - mocha/chai testing
-- basics of test-driven development
-- basics of pair programming
+##### What I learned in my first week of FEE at TIY...
 
+The first week of the Front End Engineering cohort at The Iron Yard was a fun filled learning experience. YAY!  Each day of the first week started off with student orientation where we learned some rules, meet some people, talked about parking, and met some more people.
 
--------------
-Journal, Week 1
+Once we dug in to our lectures and labs, we dove head first in to some of the tools and methods we will need as software developers. Git and GitHub are essential tools that I have already developed a love hate relationship with. Mostly hate. Do I push, pull, fork, clone, or merge? Who really even knows? I have gotten more comfortable with using the CLI for git purposes which seems like a step in the right direction. A few of the other tools we be using are node, atom, and slack. In general these seem to cause fewer nightmares than Git/GitHub.
 
-You've just completed your first week at The Iron Yard. You've learned a lot in a very short amount of time. Take some time tonight to review your notes and write them down. Use whatever format helps you get the ideas out: bulleted lists, stream of consciousness, retelling a story. Consider this a draft that you'll revise a few times throughout the week. Put this work in a branch called journal-week-1 in your USERNAME.github.io repo. Don't forget to link to that PR in your WIP Issue! Here are some suggestions for topics:
+Javascript is one of the core languages we are focusing on in FEE and after a week using it, I thought I had a pretty good grasp of it. That was until we started talking about using it in conjunction with CSS and HTML. Houston we (might) have a problem. Back to the first week though, we learned about the four primitive types, functions, loops, and logical testing.
 
-What do developers do? What principles of a developer have you learned?
-What is Pair Programming and what kinds of Pair Programming are there?
-What is Test-Driven Development?
+Overall, it was an interesting week. I learned first hand what immersive education is all about and I haven't drowned yet. Progress?
