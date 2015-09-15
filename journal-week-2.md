@@ -2,36 +2,14 @@
 
 The emotional rollercoaster week of Front End Engineering started off with a holiday. Normally this would be a good thing, but in the FEE world this means that the amount of pain of a normal week is spread out over fewer days.  Higher pain per day factor can't be good for anyone!! Right?
 
+Adding to the pain, the week was full of conflicts. Merge conflicts to be exact. We spent countless hours, days, weeks, resolving, pushing, pulling, rinsing, repeating. By the end of week two, I was completely exhausted but my GitHub house was in order.
 
+The flow of our control was way off this week. One might say it was altered. We spent some time looping, functioning, conditioning, and operating on our precedence to get the control back.
 
-- Git - Merge conflicts
-    - resolving conflicts
-    - push/pulling
-    - cleaning house
-- Altering control flow
-    - loops
-    - functions
-    - conditions
-    - operation precedence
-- More Arrays and Objects
-    - differences
-    - accessing them
-    - properties
-- we became "experts" with mocha/chai/assertion testing
-- The allmighty DOM (Document Object Model)
-    - wtf is the DOM anyway?
-    - Blueprint examples/hw
-    - html, css, and js working together in harmony
-    - window vs document vs ...
-    - listening to events..click what?
-- parts of a URL
-    - scheme/protocol
-    - domain/host name
-    - path/file location
-    - bonus part: port
+The object of dis-array might seem unclear but if you dig deeper, there are many properties that can be accessed in their own ways. If you have the right keys and the proper values, you too can unlock the dictionaries and discover a whole world.
 
-Start on your next journal entry, reflecting on the things you've learned from last week. While the full article is due on Thursday again, you should have something for tomorrow: an outline, some bullet points, even a super sloppy Rough Draft. You need to give us the tl;dr on your journal entry during homework review. The suggested topics from last week are still valid, but here are some others:
+One glimmer of hope for the week was getting to indulge in my love of all things coffee. Never in my life have I encountered as much mocha and chai being used in java...script.
 
-Describe the MVC pattern of software design, as you understand it.
-Explain the principle of Encapsulation and give some examples from your own code.
-How does scoping work in JavaScript programs? How do the function and var keywords affect it?
+At some point during week two, we started reading blueprints in an attempt to build a better DOMe. We even(t) listened to clicking noises, things changing, and there were mouse events everywhere. Before I knew it, all the things (html, css, and javasrcipt) were working in perfect harmony.
+
+Lastly, I worried about my health. I came down with a wicked URL that threatened to sideline me for most of the week. Luckily we found the host and eliminated the path(ogens). I wasn't sure what the protocol was with recovering from a URL but we ended up drinking a lot of nice port wine.
