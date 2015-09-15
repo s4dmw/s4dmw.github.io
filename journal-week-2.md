@@ -1,4 +1,4 @@
-#### Journal, Week 2 (Rough Draft)
+#### Tears On My Keyboard: A Journal of Week 2
 
 - Holiday...short week!
 - Git - Merge conflicts
