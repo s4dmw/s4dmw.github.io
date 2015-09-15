@@ -1,6 +1,9 @@
 #### Tears On My Keyboard: A Journal of Week 2
 
-- Holiday...short week!
+The emotional rollercoaster week of Front End Engineering started off with a holiday. Normally this would be a good thing, but in the FEE world this means the same amount of pain spread out over fewer days. Right? Higher pain per day factor can't be good for anyone!!
+
+
+
 - Git - Merge conflicts
     - resolving conflicts
     - push/pulling
