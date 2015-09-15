@@ -1,6 +1,6 @@
 #### Tears On My Keyboard: A Journal of Week 2
 
-The emotional rollercoaster week of Front End Engineering started off with a holiday. Normally this would be a good thing, but in the FEE world this means the same amount of pain spread out over fewer days. Right? Higher pain per day factor can't be good for anyone!!
+The emotional rollercoaster week of Front End Engineering started off with a holiday. Normally this would be a good thing, but in the FEE world this means that the amount of pain of a normal week is spread out over fewer days.  Higher pain per day factor can't be good for anyone!! Right?
 
 
 
