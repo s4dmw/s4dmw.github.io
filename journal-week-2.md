@@ -4,9 +4,9 @@ The emotional rollercoaster week of Front End Engineering started off with a hol
 
 Adding to the pain, week 2 was full of conflicts. Merge conflicts to be exact. We spent countless hours (days...weeks, even) resolving, pushing, pulling, rinsing, and repeating. By the end of week two, I was completely exhausted but my GitHub house was in order.
 
-The flow of our control was way off this week. You might even say it was altered. We spent time looping, functioning, conditioning, and operating on precedence to get the control back.
+The flow of our control was way off this week. One might say that it was altered. We spent time looping, functioning, conditioning, and operating on precedence to get the control back.
 
-The object of our dis-array might seem unclear but if you dig deeper, there are many properties that can be accessed in their own ways. If you have the right keys and the proper values, you too can unlock the dictionaries and discover a whole world.
+The object of our (dis)array might seem unclear but once you dig deeper, there are many properties that can be accessed. If you have the right keys and the proper values, you too can unlock the dictionaries and discover a whole world.
 
 One glimmer of hope for the week was getting to indulge in my love of all things coffee. Never in my life have I encountered as much mocha and chai being used in java...script.
 
