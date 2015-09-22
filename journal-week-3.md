@@ -1,4 +1,4 @@
-##### topic: 
+#### topic: 
 - CSS - specifically responsive design and media queries
 
 #### ideas/outline:
