@@ -1,12 +1,12 @@
 #### Browersync: Making Your Life Easier One Reload At A Time
 
 ##### Why should I care about browsersync?
-Have you ever been working on website and had to reload the page every single time you saved the changes? Well not anymore folks! Those days are over...done! What if I told you that you could see changes as they are saved without ever leaving the window you're making those changes in? Would you beleive me? Would you buy it? Well guess what...it does exist and IT'S FREE!!!!!
+Have you ever been working on website and had to reload the page every single time you saved the changes? Well not anymore folks! Those days are over...done! What if I told you that you could see changes as they are saved? Without ever leaving the window you're making those changes in? Would you beleive me? Would you buy it? Well guess what...it does exist and IT'S FREE!!!!!
 
 ##### FREE? You must tell me more!
-That's right folks! Let me tell you a little bit about the greatest thing since sliced bread. It's creatively named browsersync and it...wait for it...syncs your browser to the files it's tracking. It can even play the role as a server so others can watch the magic happen too!
+That's right folks! Let me tell you a little bit about the greatest thing since sliced bread. It's creatively named browsersync and it...wait for it...syncs your browser to the files it's tracking. It can even play the role of a server so others can watch the magic happen too!
 
-So head right over to [Browsersync](http://www.browsersync.io/) and check it out!
+So head right on over to [Browsersync](http://www.browsersync.io/) and check it out!
 
 ##### So now what?
 Well, now it's time to install it!
