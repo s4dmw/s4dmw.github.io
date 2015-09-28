@@ -4,5 +4,5 @@
 - npm node-sass
 - jQuery commands
   - what is jQuery
-  - $()
-  - .addClass(), .removeClass(), .toggleClass() etc
+  - $( )
+  - .addClass( ), .removeClass( ), .toggleClass( ) etc
