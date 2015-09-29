@@ -1,0 +1,17 @@
+## Week 4 Journal Topics (flags in the sand)
+- HTML
+  - parts of html files
+    - classes, id's, etc
+  - more on how html, css, js work together
+- more sass/css
+  - node-sass
+  - not committing css files when using scss
+- jQuery
+  - what it does
+  - where it is
+  - converted some of our vanilla js to jQuery
+  - wrote some jQuery from scratch
+- Chessboard
+  - testing the js
+  - MVC - interactions between the model, view, and controller
+  - chess is hard
