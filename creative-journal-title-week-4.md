@@ -1,37 +1,11 @@
-## Week 4 Journal outline
-Topic - jQuery
+## Week 4 Journal
 
-- what is jQuery? expand on what jQuery actually is and how it works
-- we converted some of our working vanilla javascript to jQuery
-  - view mode switch, multi column form
-- wrote some jQuery from scratch
-  -  nested accordion
-- what does it do vs vanilla javascript
-  - is it really magic or can you do the same things with vanilla js?
-- should i link the library or download it?
-  - it's readily available on the internet, no eed to download it
-  - no need to "carry the weight" of having the extra file
-- should i use the minimized version?
-  - unless you really care what the file looks like inside...
+Among the multitude of things we have learned so far at TIY, jQuery stands out (at least in my mind) as a very important tool to at least have a working knowledge of. Week four in TIY-FEE was a trying week but it gave us the chance to learn about and use jQuery.
 
+In week four we revisted the Blueprints once more. After we had worked on the css/scss on the sites (and html for most), we either converted the javascript we had written to jQuery or we wrote the javascript and jQuery from scratch. While jQuery doesn't really do anything javascript can't do, it repackages some DOM javascript commands/functions into nicer packaging that make life a little easier.
 
+Week four also brought us The Chessboard of DOoM. Our big project for the week was building a chessboard (representation) that could display the opening sequence of Karpov vs Kasparov, 1984. Beyond the basic layout in HTML and CSS/SCSS, the moves were simulated with javascript functions. The interactions with the DOM were primarily handled with jQuery which was actually a refreshing change from using vanilla javascript. I couldn't quite wrap my mind around the intended concept but I worked my way to a working product. As luck would have it, we have a second chance this week/weekend to give it another shot.
 
+All-in-all it was a tough week that produced the same highs and lows as previous weeks. Just as soon as I get my head above water, here comes the fire hose. Knowing that this is the way that I should feel and seemingly the way most others feel is of some comfort though. One odd thing I keep noticing is that I keep thinking we have been in this cohort for much longer than 4 weeks.
 
-
-#### Week 4 Journal Topics (flags in the sand)
-- HTML
-  - parts of html files
-    - classes, id's, etc
-  - more on how html, css, js work together
-- more sass/css
-  - node-sass
-  - not committing css files when using scss
-- jQuery
-  - what it does
-  - where it is
-  - converted some of our vanilla js to jQuery
-  - wrote some jQuery from scratch
-- Chessboard
-  - testing the js
-  - MVC - interactions between the model, view, and controller
-  - chess is hard
+What will the next week bring?
