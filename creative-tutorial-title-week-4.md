@@ -1,32 +1,22 @@
 ## This weeks tutorial topic (and the winner is.....) -  node-sass
 
-### what is this node-sass thing and what does it do?
-- brief description of scss and why you might us it vs css
-- description of what node-sass is
+### what is node-sass and what does it do?
+Node-sass is a tool that converts scss files to css files. If you are tired of using plain ole css and want to step up your game and use scss, node-sass will convert those scss files into a useable format. As an added bonus, node-sass will also check your scss file for errors.
 
-### which one of my many problems does it solve?
-- converts scss files to css files
+### what problems does it solve?
+If you are tired of using plain ole css and want to step up your game and use scss, node-sass will convert those scss files into a useable format. As an added bonus, node-sass will also check your scss file for errors.
 
 ### how do i use it?
-- downloading/installing
-- running the command
-  - output style - expanded, compressed, etc
-  - specifying input files and output files
+First you'll need to install node-sass from your terminal
+```npm install node-sass```
 
-### how should i not use it? (or what should i do differently when using it vs not using it)?
-- ex - not commiting css files to avoid overwriting a working css file with old scss code
+Once you have some scss files ready to be converted you can run:
+```node-sass [options] <input.scss> [output.css]``` where <input.scss> is the file you want to convert and the optional [output.css] is the name of your output file. The default output file name matches the input file name with a css exentsion.
+
+The option i use the most is `--output style expanded`. The output style options are nested, expanded, compact, and compressed.
+
+### a word of caution when using node-sass
+Do not try to convert multiple scss files at one time or you might end up accidentally overwriting one or more of your scss files. Just stick to converting one file at a time to be safe.
 
 ### wait...what were we talking about again?
-- summary of the node-sass command
-
-
-
-
-## possible tutorial topics - flags in the sand
-
-- creating/using scripts in package.json
-- node-sass
-- jQuery commands
-  - what is jQuery
-  - $( )
-  - .addClass( ), .removeClass( ), .toggleClass( ) etc
+Node-sass. Have you forgotten already?
