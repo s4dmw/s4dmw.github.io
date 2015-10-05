@@ -8,7 +8,7 @@ Writing in CSS is tedious and difficult to deal with when you make syntax errors
 
 ### How do i use it?
 First you'll need to install node-sass from your terminal
-```npm install node-sass```
+```npm install --global node-sass```
 
 Once you have some SCSS files ready to be converted you can run:
 ```node-sass [options] <input.scss> [output.css]``` where <input.scss> is the file you want to convert and the optional [output.css] is the name of your output file. The default output file name matches the input file name with a CSS exentsion.
