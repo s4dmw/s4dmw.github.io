@@ -1,5 +1,6 @@
-Week 5 journal potential topics:
+####Week 5 journal potential topics:
 
+What did we learn?
 - more jQuery...that shiz is $
 - straight outta lodash
 - cleanin up with some $.ajax
@@ -11,3 +12,5 @@ Week 5 journal potential topics:
   - json again?
   - postman
 - return of the chessboard
+
+How tired am i?
