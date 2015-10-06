@@ -95,11 +95,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+  @import 'grid.scss';
   @import 'common.scss';
-  @import '_desktop.scss';
-  @import '_mobile.scss';
-  @import '_tablet.scss';
+  @import 'desktop.scss';
+  @import 'mobile.scss';
+  @import 'tablet.scss';
 
 
 
