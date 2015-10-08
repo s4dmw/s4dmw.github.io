@@ -1,0 +1,23 @@
+{
+  "name": "s4dmw.github.io",
+  "version": "0.0.2",
+  "homepage": "https://github.com/s4dmw/s4dmw.github.io",
+  "authors": [
+    "David <dmwhite@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
