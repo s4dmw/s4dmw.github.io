@@ -1,5 +1,10 @@
-Resource - Week 5
+##### Resource - Week 5: [Postman](https://www.getpostman.com/)
 
-Postman - https://www.getpostman.com/
-postman is a nice little tool that make browsing API's easier.
-I'm only just beginning to understand it's usefulness so i'm hoping this resource post will help me learn more about it.
+Postman is a Chrome App that makes browsing API's easier. You can git and view json files much easier as well as quickly add authenfication tokens when required.
+
+I'm still very new to using postman so I hope to learn a lot more and update this Resource post soon.
+
+useful postman links:
+features: https://www.getpostman.com/features
+documentation: https://www.getpostman.com/docs
+support: https://www.getpostman.com/support
