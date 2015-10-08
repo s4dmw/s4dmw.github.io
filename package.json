@@ -1,6 +1,6 @@
 {
-  "name": "package",
-  "version": "0.0.1",
+  "name": "s4dmw.github.io",
+  "version": "0.0.2",
   "description": "",
   "main": "BasicCalculator.js",
   "dependencies": {
@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/s4dmw/TIY-Assignments.git"
   },
-  "author": "",
+  "author": "David Wjhite",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/s4dmw/TIY-Assignments/issues"
