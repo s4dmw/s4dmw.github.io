@@ -1,17 +1,16 @@
-#### Week 5 Tutorial: [$.ajax](http://api.jquery.com/jquery.ajax/)
+##### Tutorial - Week 5: jQuery
 
-##### what is it?
-- expand on what jQuery.ajax is and what it does
+What is jQuery?
+- explain what jQuery and how/why it was developed
 
-##### why should I use it?
-- how it makes interactions with api's easier tha javascript
+Why should i use it?
+- expand on the benefits of using jQuery vs vanilla js
 
-##### how do I use it?
-- syntax, inputs, etc
-- give examples
+how do i get it?
+- link to external library or download/link your own copy
 
-##### what could possibly go wrong?
-- any dangers or potential problems?
+how do i use it?
+- give some examples of using jQuery
 
-##### summary
-- tell the people again...
+summary
+- summarize that jQuery y0!
