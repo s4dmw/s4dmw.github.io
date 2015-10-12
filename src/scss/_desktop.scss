@@ -18,3 +18,11 @@ nav#menu {
     padding-bottom: 1em;
   }
 }
+
+section#main section {
+  display: none;
+}
+
+section#main section.active {
+  display: inherit;
+}
