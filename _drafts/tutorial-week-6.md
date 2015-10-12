@@ -1,1 +1,1 @@
-
+A Tutorial Journal starts with a clear introduction that explains what you're about to tell the reader, framing the problem appropriately, moves to a step-by-step walkthrough (with screens and code-snippets) of the process, and finishes by reiterating what problem they solved and how.
