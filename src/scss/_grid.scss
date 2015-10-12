@@ -1,11 +1,23 @@
+// section#page {
+//   background-image: url(http://adventurethemes.com/demo/writer/html/v2/img/default-sidebar.jpg);
+//   position: fixed;
+//   width: 40%;
+// }
 
-.grid {
-  background-color: gray;
+
+section#image {
+  // background-color: gray;
+  background-image: url(http://adventurethemes.com/demo/writer/html/v2/img/default-sidebar.jpg);
+  box-sizing: border-box;
+  float: left;
+  width: 35%;
+  // margin-right: 1%;
+  height: 1000px;
 }
-.col-1-12 {
+section#main {
   background-color:lightgray;
   float: left;
-  width: 7.3%;
-  text-align: center;
-  margin-right: 1%;
+  // margin-left: 1%;
+  width: 65%;
+  height: 1000px;
 }
