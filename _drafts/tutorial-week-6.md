@@ -1,1 +1,13 @@
-A Tutorial Journal starts with a clear introduction that explains what you're about to tell the reader, framing the problem appropriately, moves to a step-by-step walkthrough (with screens and code-snippets) of the process, and finishes by reiterating what problem they solved and how.
+##### Tutorial Week 5:
+
+topic :media queries
+
+outline:
+- what are they?
+- why should you use them?
+  - responsive web design
+- how do you use them?
+  - desktop first vs mobile first design
+  - syntax
+  - examples
+- summary
