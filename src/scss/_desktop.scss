@@ -17,6 +17,11 @@ nav#menu {
     border-bottom: 3px solid black;
     padding-bottom: 1em;
   }
+  a.active {
+    color: black;
+    border-bottom: 3px solid black;
+    padding-bottom: 1em;
+  }
 }
 
 section#main section {
@@ -25,4 +30,23 @@ section#main section {
 
 section#main section.active {
   display: inherit;
+  ul {
+    list-style-type: none;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 0;
+    li {
+      border-bottom: 1px solid lightgray;
+      padding-bottom: 5%;
+    }
+    li span {
+      color: lightgray;
+    }
+  }
+}
+
+section#categories {
+  h3 {
+    margin-left: 5%;
+  }
 }
