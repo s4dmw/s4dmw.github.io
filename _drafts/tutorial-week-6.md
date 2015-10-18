@@ -1,4 +1,4 @@
-##### Tutorial Week 5: Media Queries
+##### Tutorial Week 6: Media Queries
 
 *What are Media Queries?*
 - Media queries can be set up to apply css/scss styles when specific conditions relating to the viewing device are met.
