@@ -1,1 +1,1 @@
-##### Tutorial Week 7
+##### Journal Week 7
