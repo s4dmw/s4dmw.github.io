@@ -1,7 +1,7 @@
 ##### Tutorial Week 7 - Building Tabbed Panels (might have to break this up in to two posts)
 
 outline:
-- mf'g HTML
+- HTML
   - `<nav>` with `<a>`'s
   - `<section>`'s with panel content
   - classes, id's, etc
@@ -18,7 +18,7 @@ outline:
       - hover states
       - colors, etc
       - active vs inactive sytles
-  - panels ('<section>`'s)
+  - panels (`<section>`'s)
     - showing active panels and hiding inactive ones
     - general styling
 - js/jQuery to make it work
