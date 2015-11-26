@@ -18,7 +18,7 @@
   "scripts": {
     "test": "browser-sync start --server --index='tests.html' --files='*.html, js/*.js, css/*.css'",
     "bs": "browser-sync start --server --directory --files='*.html, src/js/*.js, src/css/*.css'",
-    "sass": "node-sass --watch --output-style expanded src/scss/main.scss src/css/main.css"
+    "sass": "node-sass --watch --output-style expanded scss/main.scss css/main.css"
   },
   "repository": {
     "type": "git",
