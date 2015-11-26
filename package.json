@@ -5,7 +5,8 @@
   "main": "BasicCalculator.js",
   "dependencies": {
     "chai": "^3.2.0",
-    "mocha": "^2.3.0"
+    "mocha": "^2.3.0",
+    "wiredep": "^2.2.2"
   },
   "devDependencies": {
     "bower": "^1.5.3",

@@ -19,5 +19,12 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8"
+  },
+  "resolutions": {
+    "modernizr": "~3.1.0"
+  }
 }
